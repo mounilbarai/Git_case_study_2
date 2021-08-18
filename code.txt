@@ -1,2 +1,3 @@
 initial line from master
 First line from feature1 branch
+First line from Feature2
